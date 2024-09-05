@@ -1,5 +1,5 @@
 # Full-Stack-Data-Science
-Welcome to the Full-Stack Data Science repository! This repository serves as a comprehensive guide and collection of projects covering the entire data science pipeline. Whether you are a beginner or wanted to brush-up your knowledge, you'll find valuable resources, code examples, and projects to enhance your skills in data science.
+Welcome to the Full-Stack Data Science repository! This repository serves as a comprehensive guide and collection of projects covering the entire data science pipeline. Whether you are a beginner or wanted to brush-up your knowledge, you'll find valuable resources, code examples, and projects to enhance your skills in data science..
 
 The description about the each folder:
 
